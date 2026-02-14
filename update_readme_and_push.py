@@ -8,12 +8,12 @@ README_PATH = os.path.join(ROOT_DIR, "README.md")
 MODULE_DESC = "This folder contains experiments and notebooks related to {}."
 
 lines = [
-    "# Machine Learning Portfolio: Data Analysis & Modeling\n",
+    "# Machine Learning Portfolio: Data Analysis & Modeling\n\n\n",
     "## Project Overview\n",
     "Structured repository of ML experiments including supervised, unsupervised learning and data analysis pipelines.\n",
-    "---\n",
+    "---\n\n\n",
     "## Repository Structure\n",
-    "```\n"
+    "```\n\n\n"
 ]
 
 for folder in sorted(os.listdir(ROOT_DIR)):
@@ -25,10 +25,10 @@ for folder in sorted(os.listdir(ROOT_DIR)):
             lines.append(f"    - {nb}\n")
 
 lines.append("```\n")
-lines.append("---\n")
+lines.append("---\n\n\n")
 lines.append("## Technologies & Libraries\n")
 lines.append("- Python 3.x\n- NumPy, Pandas\n- Scikit-learn\n- Matplotlib, Seaborn\n- Jupyter Notebook\n")
-lines.append("---\n")
+lines.append("---\n\n\n")
 lines.append("## Workflow\n")
 lines.append("1. Data Loading\n2. Data Cleaning & Preprocessing\n3. Exploratory Data Analysis (EDA)\n4. Feature Engineering\n5. Model Training\n6. Model Evaluation\n7. Visualization & Interpretation\n")
 

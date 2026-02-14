@@ -1,9 +1,15 @@
 # Machine Learning Portfolio: Data Analysis & Modeling
+
+
 ## Project Overview
 Structured repository of ML experiments including supervised, unsupervised learning and data analysis pipelines.
 ---
+
+
 ## Repository Structure
 ```
+
+
 Agglomerative Clustring/    # This folder contains experiments and notebooks related to Agglomerative Clustring.
     - Agglomerative clustering.ipynb
 Boosting_Algs/    # This folder contains experiments and notebooks related to Boosting_Algs.
@@ -31,6 +37,8 @@ SVM/    # This folder contains experiments and notebooks related to SVM.
     - SVM.ipynb
 ```
 ---
+
+
 ## Technologies & Libraries
 - Python 3.x
 - NumPy, Pandas
@@ -38,6 +46,8 @@ SVM/    # This folder contains experiments and notebooks related to SVM.
 - Matplotlib, Seaborn
 - Jupyter Notebook
 ---
+
+
 ## Workflow
 1. Data Loading
 2. Data Cleaning & Preprocessing
