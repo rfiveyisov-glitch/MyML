@@ -1,184 +1,48 @@
-\# Machine Learning Project: Data Analysis \& Modeling
-
-
-
-\## Overview
-
-This project focuses on \*\*data analysis, classification, and unsupervised learning techniques\*\* using Python-based machine learning tools. The main objective is to explore data patterns, build predictive models, and evaluate different algorithms for learning structured and unstructured relationships within datasets.
-
-
-
-The project includes implementations of:
-
-
-
-\- Supervised Learning (Classification)
-
-\- Support Vector Machines (SVM)
-
-\- Unsupervised Learning Algorithms
-
-\- Data preprocessing and feature engineering
-
-\- Model evaluation and visualization
-
-
-
+# Machine Learning Portfolio: Data Analysis & Modeling
+## Project Overview
+Structured repository of ML experiments including supervised, unsupervised learning and data analysis pipelines.
 ---
-
-
-
-\## Project Structure
-
-
-
-
-
-├── data\_analysis.ipynb # Jupyter Notebook with detailed analysis
-
-├── README.md # Project documentation
-
-
-
-
-
-
+## Repository Structure
+```
+Agglomerative Clustring/    # This folder contains experiments and notebooks related to Agglomerative Clustring.
+    - Agglomerative clustering.ipynb
+Boosting_Algs/    # This folder contains experiments and notebooks related to Boosting_Algs.
+    - BoostingAlgs.ipynb
+Classification/    # This folder contains experiments and notebooks related to Classification.
+    - mnist_classification.ipynb
+Customer Segmentation/    # This folder contains experiments and notebooks related to Customer Segmentation.
+    - Customer segmentation.ipynb
+DBSCAN/    # This folder contains experiments and notebooks related to DBSCAN.
+    - DBSCAN.ipynb
+DecisionTree/    # This folder contains experiments and notebooks related to DecisionTree.
+    - DecisionTree.ipynb
+Dimensionality  Reduction/    # This folder contains experiments and notebooks related to Dimensionality  Reduction.
+    - Dimensionality  Reduction .ipynb
+K_means/    # This folder contains experiments and notebooks related to K_means.
+    - K_means.ipynb
+PCA/    # This folder contains experiments and notebooks related to PCA.
+    - PCA.ipynb
+Random Forest/    # This folder contains experiments and notebooks related to Random Forest.
+    - RandomForest_AsambleL.ipynb
+Regression_models/    # This folder contains experiments and notebooks related to Regression_models.
+    - CaliforniaHousing.ipynb
+    - TrainingModels.ipynb
+SVM/    # This folder contains experiments and notebooks related to SVM.
+    - SVM.ipynb
+```
 ---
-
-
-
-\## Algorithms Used
-
-
-
-\### 1. Classification
-
-Supervised learning methods were applied to predict target labels based on input features. The workflow includes:
-
-
-
-\- Data preprocessing
-
-\- Feature selection
-
-\- Model training
-
-\- Performance evaluation
-
-
-
-Common evaluation metrics:
-
-\- Accuracy
-
-\- Precision
-
-\- Recall
-
-\- F1-score
-
-\- Confusion Matrix
-
-
-
+## Technologies & Libraries
+- Python 3.x
+- NumPy, Pandas
+- Scikit-learn
+- Matplotlib, Seaborn
+- Jupyter Notebook
 ---
-
-
-
-\### 2. Support Vector Machine (SVM)
-
-Support Vector Machines were used for classification tasks by finding an optimal hyperplane that maximizes class separation.
-
-
-
-Key concepts:
-
-\- Kernel functions (Linear, RBF)
-
-\- Margin maximization
-
-\- Regularization parameter (C)
-
-\- Decision boundaries
-
-
-
----
-
-
-
-\### 3. Unsupervised Learning
-
-Unsupervised algorithms were applied to discover hidden structures in the dataset without labeled outputs.
-
-
-
-Techniques explored:
-
-\- Clustering
-
-\- Pattern discovery
-
-\- Dimensionality reduction (if applicable)
-
-
-
-Examples:
-
-\- K-Means Clustering
-
-\- Hierarchical Clustering
-
-\- PCA (Principal Component Analysis)
-
-
-
----
-
-
-
-\## Technologies \& Libraries
-
-
-
-\- Python 3.x
-
-\- NumPy
-
-\- Pandas
-
-\- Scikit-learn
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Jupyter Notebook
-
-
-
----
-
-
-
-\## Workflow
-
-
-
-1\. Data Loading
-
-2\. Data Cleaning \& Preprocessing
-
-3\. Exploratory Data Analysis (EDA)
-
-4\. Feature Engineering
-
-5\. Model Training
-
-6\. Model Evaluation
-
-7\. Visualization \& Interpretation
-
-
-
-
+## Workflow
+1. Data Loading
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Visualization & Interpretation
