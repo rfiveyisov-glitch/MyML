@@ -8,8 +8,6 @@ Structured repository of ML experiments including supervised, unsupervised learn
 
 ## Repository Structure
 ```
-
-
 Agglomerative Clustring/    # This folder contains experiments and notebooks related to Agglomerative Clustring.
     - Agglomerative clustering.ipynb
 Boosting_Algs/    # This folder contains experiments and notebooks related to Boosting_Algs.

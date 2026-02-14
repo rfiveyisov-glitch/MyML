@@ -13,7 +13,7 @@ lines = [
     "Structured repository of ML experiments including supervised, unsupervised learning and data analysis pipelines.\n",
     "---\n\n\n",
     "## Repository Structure\n",
-    "```\n\n\n"
+    "```\n"
 ]
 
 for folder in sorted(os.listdir(ROOT_DIR)):
