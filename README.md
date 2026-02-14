@@ -4,30 +4,30 @@ Structured repository of ML experiments including supervised, unsupervised learn
 ---
 ## Repository Structure
 ```
-Agglomerative Clustring/    This folder contains experiments and notebooks related to Agglomerative Clustring.
+Agglomerative Clustring/    # This folder contains experiments and notebooks related to Agglomerative Clustring.
     - Agglomerative clustering.ipynb
-Boosting_Algs/    This folder contains experiments and notebooks related to Boosting_Algs.
+Boosting_Algs/    # This folder contains experiments and notebooks related to Boosting_Algs.
     - BoostingAlgs.ipynb
-Classification/    This folder contains experiments and notebooks related to Classification.
+Classification/    # This folder contains experiments and notebooks related to Classification.
     - mnist_classification.ipynb
-Customer Segmentation/    This folder contains experiments and notebooks related to Customer Segmentation.
+Customer Segmentation/    # This folder contains experiments and notebooks related to Customer Segmentation.
     - Customer segmentation.ipynb
-DBSCAN/    This folder contains experiments and notebooks related to DBSCAN.
+DBSCAN/    # This folder contains experiments and notebooks related to DBSCAN.
     - DBSCAN.ipynb
-DecisionTree/    This folder contains experiments and notebooks related to DecisionTree.
+DecisionTree/    # This folder contains experiments and notebooks related to DecisionTree.
     - DecisionTree.ipynb
-Dimensionality  Reduction/    This folder contains experiments and notebooks related to Dimensionality  Reduction.
+Dimensionality  Reduction/    # This folder contains experiments and notebooks related to Dimensionality  Reduction.
     - Dimensionality  Reduction .ipynb
-K_means/    This folder contains experiments and notebooks related to K_means.
+K_means/    # This folder contains experiments and notebooks related to K_means.
     - K_means.ipynb
-PCA/    This folder contains experiments and notebooks related to PCA.
+PCA/    # This folder contains experiments and notebooks related to PCA.
     - PCA.ipynb
-Random Forest/    This folder contains experiments and notebooks related to Random Forest.
+Random Forest/    # This folder contains experiments and notebooks related to Random Forest.
     - RandomForest_AsambleL.ipynb
-Regression_models/    This folder contains experiments and notebooks related to Regression_models.
+Regression_models/    # This folder contains experiments and notebooks related to Regression_models.
     - CaliforniaHousing.ipynb
     - TrainingModels.ipynb
-SVM/    This folder contains experiments and notebooks related to SVM.
+SVM/    # This folder contains experiments and notebooks related to SVM.
     - SVM.ipynb
 ```
 ---
