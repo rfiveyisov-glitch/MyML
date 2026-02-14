@@ -19,7 +19,7 @@ lines = [
 for folder in sorted(os.listdir(ROOT_DIR)):
     folder_path = os.path.join(ROOT_DIR, folder)
     if os.path.isdir(folder_path) and not folder.startswith("."):
-        lines.append(f"{folder}/    # {MODULE_DESC.format(folder)}\n")
+        lines.append(f"{folder}/    {MODULE_DESC.format(folder)}\n")
         notebooks = [f for f in os.listdir(folder_path) if f.endswith(".ipynb")]
         for nb in notebooks:
             lines.append(f"    - {nb}\n")
