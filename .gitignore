@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+venv/
+.venv/
+env/
+
+# Data and Models (Dataset-ləri git-ə yükləməmək üçün)
+*.csv
+*.json
+*.parquet
+*.pkl
+*.joblib
+*.pth
+*.h5
+
+# OS generated files
+.DS_Store
+Thumbs.db
